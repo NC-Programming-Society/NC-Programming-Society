@@ -26,7 +26,9 @@ We primarily focus on the following languages and frameworks:
 
 ## Inquiries  
   If you have inquiries or questions about anything, you can contact us:
+  
   Richie Wilynnton (+852 6121 8295- WhatsApp)
+  
   Jam Kabeer (+92 334 0348699 - WhatsApp)
 
 💡 **Happy Coding!** 🚀
