@@ -8,12 +8,13 @@ We're a community of enthusiastic programmers who gather weekly to solve Leetcod
 
 We're always looking for better solutions and cleaner code! If you have code that you think improves upon what we have, Please tell us! It would be great knowledge for everyone in the club!
 
+[Check out our Instagram!](https://instagram.com/nc.programmingsociety?igshid=MzRlODBiNWFlZA==)
+
 ## 🛠 Languages & Frameworks
 
 We primarily focus on the following languages and frameworks:
 
-- Python 🐍
-  https://www.w3schools.com/python/
+- [Python 🐍](https://www.w3schools.com/python/)
   For beginners, you can give this website a quick read. You don't have to be an expert in python to keep up with our sessions, but basic knowledge does help a lot!
   Here are fundamental things you should know:
   1. Variables & Data Types
